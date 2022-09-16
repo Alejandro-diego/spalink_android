@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057863011386",
+    "project_id": "spalink-a617b",
+    "storage_bucket": "spalink-a617b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057863011386:android:343098f082c3c7fc47f903",
+        "android_client_info": {
+          "package_name": "br.dev.iotech.spalink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057863011386-rh5ablk3fqpa2amdtg5pgae18c1obu2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.dev.iotech.spalink",
+            "certificate_hash": "c5cb3992dfe4ab4ec16ae3c6e54713b6509aa55a"
+          }
+        },
+        {
+          "client_id": "1057863011386-uf3o3scndm1ul3m2ot2kr996s0os61j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7KR-dwa6F0UdWRG4BJjY3ddYkSYE_O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057863011386-uf3o3scndm1ul3m2ot2kr996s0os61j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
